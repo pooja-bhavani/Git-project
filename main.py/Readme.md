@@ -41,6 +41,8 @@ Gets Information about author who commits
 ```
 Git log 
 ```
+![image](https://github.com/user-attachments/assets/74f14553-a178-46c2-aef0-e018e486e29e)
+
 Suppose I have added the file to staging area and i want to unstage it and keep it untracked. (Restore process)
 ```
 git restore --staged <filename>
