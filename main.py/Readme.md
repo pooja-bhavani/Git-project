@@ -24,6 +24,7 @@ Used to track the staged files after being added by git add.
 ```
 git commit -m <commit message>
 ```
+![image](https://github.com/user-attachments/assets/03c57ae8-4ade-417f-8af9-4bd8d17f8417)
 To checkout from one branch and create a new branch
 ```
 git branch checkout -b 
@@ -64,7 +65,7 @@ If I checkout and create a new branch from master it will have the changes of ma
 
 
 
-![image](https://github.com/user-attachments/assets/03c57ae8-4ade-417f-8af9-4bd8d17f8417)
+
 
 
 
