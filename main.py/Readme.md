@@ -1,4 +1,4 @@
-# Git and GitHub in one shot
+# Commands for git and git branches
 To initailize a empty directory in git
 ```
 git init  
@@ -11,7 +11,7 @@ Git status
 ```
 ![image](https://github.com/user-attachments/assets/cec46997-56c3-4795-953b-0f6ba6f29025)
 
-# Commands for git and git branches
+
 To add a file to staging area
 ```
 git add 
