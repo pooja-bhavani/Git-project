@@ -17,14 +17,16 @@ Git revert: creates a new commit to undo changes of last commit.
 git rebase: moves commits from one branch onto another to keep history clean.  
   
 Commands for git and git branches
-***
+  
+``````
 git branch checkout -b <new branch> - to checkout from one branch and create a new branch.
 git checkout - to switch between branches 
 git add <filename> - Used to stage the untracked file
 git add  .  - to add all tracked and untracked files
 git commit -m <commit message> - Used to track the staged files after being added by git add.
 Git log - to get Information about author who commits
-***
+`````
+  
 once I have committed things to the branch then I can switch between branches using git checkout <branch-name>
 If I delete a file and want to restore it again 
 
