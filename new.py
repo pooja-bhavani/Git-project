@@ -1,8 +1,8 @@
-Git and GitHub in one shot
+#Git and GitHub in one shot
 Difference between centralized and distributed version control?
 CVC: All version history and files are stored on a central server. Does’t have local storage to store copy of the data pushed to central repository. Developers pull the latest version and commit changes directly to the central repository.
 
- DVCS: Every developer's machine has a full local copy of the entire repository, including the complete version history. Developers can commit, revert, and review history locally, even without internet access. Changes are later pushed to or pulled from a central/shared repository to collaborate with others.
+DVCS: Every developer's machine has a full local copy of the entire repository, including the complete version history. Developers can commit, revert, and review history locally, even without internet access. Changes are later pushed to or pulled from a central/shared repository to collaborate with others.
 Git init - is to initailize a empty directory in git
 Git status - gives information about which branch we are in, how many commits we have made, and how many tracked or untracked files are there.
 Git Branches
@@ -14,7 +14,7 @@ git reset: Deletes a commit from branch history.
 Git revert: creates a new commit to undo changes of last commit.
 git rebase: moves commits from one branch onto another to keep history clean.  
   
-# Git branches
+#Git branches
 
 once I have committed things to the branch then I can switch between branches using git checkout <branch-name>
 If I delete a file and want to restore it again 
