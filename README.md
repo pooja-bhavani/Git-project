@@ -1,1 +1,1 @@
-# Git-project
+# Git and GitHub in one shot
